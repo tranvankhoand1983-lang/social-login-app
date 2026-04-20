@@ -34,5 +34,4 @@ Dự án xây dựng chức năng đăng nhập bằng tài khoản bên thứ b
 
 Bạn có thể xem video hướng dẫn và chạy thử chức năng tại đây:
 
-- **Link Video:** [Bấm vào đây để xem Demo]([DÁN_CÁI_LINK_GOOGLE_DRIVE_HOẶC_YOUTUBE_VÀO_ĐÂY](https://drive.google.com/file/d/1hVjk4iUIecefKRAl9WjDFSvNVahAj3YW/view?usp=sharing))
-php artisan key:generate
+- **Link Video:** [Bấm vào đây để xem Demo](https://drive.google.com/file/d/1hVjk4iUIecefKRAl9WjDFSvNVahAj3YW/view?usp=sharing)
